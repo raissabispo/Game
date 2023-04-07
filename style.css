@@ -1,0 +1,84 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 600px;
+  
+    background-image:url("https://storage.googleapis.com/novo-blog-wordpress/2019/11/matematica2.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+  }
+  
+  
+ 
+  .container {
+    display: flex;
+    flex-direction: column;
+  
+    width: 480px;
+    height: 710px;
+    align-items: center;
+    justify-content:center;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    margin: 0 auto;
+   
+   background-color: rgb(145, 227, 255);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+   
+  }
+  
+  .page-title {
+    color: #000000;
+    margin: 0 0 5px;
+   
+
+  }
+  
+  .page-subtitle {
+    color: #000000;
+    margin-top: 16px;
+  }
+  
+  .page-title2 {
+    color:#000000
+  }
+  
+  
+ 
+  
+  
+  input {
+    margin: 4px;
+    padding: 6px;
+    border-radius: 5px;
+    border-color: aqua;
+   
+  }
+
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .resultado {
+    color: #000000;
+    text-align: center;
+    margin-top: 16px;
+  }
+  
+  button:hover{
+  background-color: rgb(101, 255, 204);
+     
+  }
+
+ h2 {
+    color:#000000
+  }
